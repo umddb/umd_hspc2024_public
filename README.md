@@ -1,1 +1,21 @@
-# umd_hspc2024_public
+# University of Maryland High School Programming Competition (HSPC) 2024
+Repository of problems and their full solutions from the 2024 UMD High School Programming Competition ([website](http://www.cs.umd.edu/Outreach/hsContest24/), [final scoreboard](docs/2024_hspc_final.png)).  
+
+## `/docs`
+* Practice.pdf: problems for the practice contest
+* MainContest.pdf: problems for the main contest
+* 2024-solutions.pptx/pdf: high-level solutions for the problems; full Java implementations can be found in `/problems` below.
+* 2024-introduction.pptx: intro presentation given to students before the practice round.
+
+
+## `/problems`
+Skeleton code, our solutions, as well as test inputs.
+
+## Acknowledgments
+
+Problem Creators, Solution Fixers, and Judges:
+
+* [Amol Deshpande](http://www.cs.umd.edu/~amol/)
+* [Laxman Dhulipala](https://www.cs.umd.edu/~laxman/)
+* [Evan Golub](http://www.cs.umd.edu/~egolub/professional.shtml)
+* [Dave Mount](http://www.cs.umd.edu/~mount)
