@@ -1,5 +1,5 @@
 # University of Maryland High School Programming Competition (HSPC) 2024
-Repository of problems and their full solutions from the 2024 UMD High School Programming Competition ([website](http://www.cs.umd.edu/Outreach/hsContest24/).  
+Repository of problems and their full solutions from the 2024 UMD High School Programming Competition ([website](http://www.cs.umd.edu/Outreach/hsContest24/)).  
 
 ## `/docs`
 * Practice.pdf: problems for the practice contest
